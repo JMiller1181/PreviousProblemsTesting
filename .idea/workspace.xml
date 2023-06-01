@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1f23072-49dd-4682-bf4c-e2d9329f42c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PreviousProblemsTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/previous/problems/AverageMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/previous/problems/Calculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/previous/problems/ConditionalStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/previous/problems/CountToEleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/previous/problems/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/previous/problems/AverageMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/previous/problems/CalculationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/previous/problems/ConditionalStatementsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/previous/problems/CountToElevenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/previous/problems/MultiplicationTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Qc2r9mqlig6o3ARBA29ZT2Ejn0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_directory_selection": "C:/Users/admin/Documents/CTAC/fs103/PreviousProblemsTesting/src/test/java/previous/problems",
+    "last_opened_file_path": "C:/Users/admin/Documents/CTAC/fs103/PreviousProblemsTesting",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.17816092",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="previous.problems" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="previous.problems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CountToElevenTest.countToElevenTest">
+    <configuration name="CountToElevenTest.countToElevenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreviousProblemsTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="previous.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="previous.problems" />
+      <option name="MAIN_CLASS_NAME" value="previous.problems.CountToElevenTest" />
+      <option name="METHOD_NAME" value="countToElevenTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTest.multiplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PreviousProblemsTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="previous.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="previous.problems" />
+      <option name="MAIN_CLASS_NAME" value="previous.problems.MultiplicationTest" />
+      <option name="METHOD_NAME" value="multiplicationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CountToElevenTest.countToElevenTest" />
+        <item itemvalue="JUnit.MultiplicationTest.multiplicationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1f23072-49dd-4682-bf4c-e2d9329f42c1" name="Changes" comment="" />
+      <created>1685638746854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685638746854</updated>
+      <workItem from="1685638747924" duration="3472000" />
+      <workItem from="1685642232934" duration="2775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
